@@ -8,3 +8,4 @@ En este repositorio se cargarán las distintas entregas para el curso de Javascr
 
 - Desafío entregable: crear un algoritmo utilizando un ciclo
 - Desafío entregable: simulador interactivo
+- Desafío entregable: incorporando arrays
